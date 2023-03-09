@@ -1,0 +1,30 @@
+{"Array": [
+	{
+		"username": "u",
+		"password": "p"
+	},
+	{
+	  "u": "username",
+	  "p": "password"
+	},
+	{
+		"c": "hello",
+		"b": "EECS",
+	  "a": "3311"
+	},
+	{
+	  "username": "!@#$%^&*()",
+	  "password": "symbol"
+	},
+	{
+		"username": "two words",
+		"password": "many words here"
+	  },
+	  {
+		"": ""
+	  },
+	  {}
+	],
+"AnArrayButNotThis":[{"its a":"trap!"}],
+"not even": "an array"
+}
